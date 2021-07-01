@@ -1,0 +1,271 @@
+/*header star*/
+
+header{}
+.container {
+	overflow: hidden;
+	width: 90%;
+	
+	margin: 0 auto;
+	padding: 10px,0;
+}
+
+.logo {
+	width: 10%;
+	
+	float: left;
+}
+.logo a{} 
+.logo a img{
+	width: 100%;
+
+
+}
+
+.menu {
+	width: 55%;
+	
+	float: right;
+}
+.menu ul  {
+
+list-style: none;
+float: right;
+}
+.menu ul li{
+	padding: 10px,0;
+float: left;
+}
+.menu ul li a{
+
+text-decoration: none;
+margin: 0 15px;
+display: inline-block;
+color: #0F2656;
+font-size: 17px;
+padding-top: 10px;
+}
+
+.menu ul li a:hover{
+
+color: #008AFF;
+}
+.menu ul li:last-child a{
+
+margin: 0px;
+}
+
+
+.banner{
+	
+	padding: 30px;
+
+
+}
+.container2{
+
+width: 80%;
+ 
+margin: 0 auto;
+
+}
+
+.b-content{
+
+	text-align: center;
+	
+}
+
+.b-content h1{
+	font-size: 50px;
+	margin: 0 40px;
+	margin-top: 30px;
+
+}
+.b-content h1 span{
+	font-size: 50px;
+	color: orchid;
+}
+.b-content p{
+font-size: 15px;
+margin: 20px;
+margin-top: 20px;
+margin-bottom: 45PX;
+line-height: 30PX;
+color: #ad6317eb;
+
+}
+
+.b_image{
+
+width: 70%;
+margin: 0 auto;
+
+}
+.b_image img{
+
+}
+
+/*success start*/
+.success{
+	
+	padding: 50px;
+
+}
+.container2{
+	width: 70%;
+
+margin: 0 auto;
+
+}
+.s_content{
+	overflow: hidden;
+
+}
+.s_left{ 
+	padding: 25px 20px 10px 20px;
+	text-align: right;
+	
+	float: left;
+	width: 40%;
+	 
+
+	
+}
+.s_left h2{
+	 
+	 font-size: 35px;
+	 color: orchid;
+	
+}
+.s_left p{
+	padding: 0 0 0 20px;
+	font-size: 15px;
+	
+
+
+
+}
+.s_right{
+
+	 padding: 5px 20px 0 20px;
+	 
+	float: right;
+	width: 50%;
+	border: 
+
+}
+.s_right h1{
+	font-size: 45px;
+	color: dodgerblue;
+	
+}
+
+/*crativity start*/
+
+.creativity{
+	
+	padding: 50px;
+
+}
+
+
+
+.C_content{
+	
+	overflow: hidden;
+}
+
+.orange{
+	background-color: #FE6E18;
+
+}
+.green{
+	background-color: #178433
+
+
+}
+.red{
+background-color:#E02A26
+}
+
+
+
+.C_singel {
+	float: left;
+    width: 28%;
+    padding: 20px 1.5% 32px;
+    
+    margin-right: 2.3%;
+}
+
+}
+.C_single last-child{
+	margin: 0;
+}
+.C_image{
+	
+
+	
+}
+.C_img img{
+	width: 100;
+
+}
+.C_single h2{
+}
+.C_single p{ 
+ }
+
+ footer{
+ 	background-color:#1B8737 ;
+ 	padding: 20px;
+ }
+ 
+ .foot{
+ 	text-align: center;
+ 	font-size: 20px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*crativity end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* success end */
+
+
+
+
+
+
+
+
+
+
+/*header end*/
